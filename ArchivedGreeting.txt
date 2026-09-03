@@ -1,3 +1,4 @@
 Hello from SharPR2 baseline.
 This line was updated in the fixture PR.
 This line exercises a renamed file.
+This line exercises an edited rename.
