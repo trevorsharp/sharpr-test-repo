@@ -1,1 +1,2 @@
 Second mutation contract fixture.
+Head changed after PR creation for stale-head validation.
