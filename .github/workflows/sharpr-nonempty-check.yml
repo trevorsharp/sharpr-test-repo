@@ -1,0 +1,10 @@
+name: SharPR non-empty check fixture
+
+on:
+  pull_request:
+
+jobs:
+  fixture:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "SharPR non-empty check fixture"
