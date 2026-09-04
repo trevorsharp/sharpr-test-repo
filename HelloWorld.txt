@@ -1,2 +1,0 @@
-Hello from SharPR2 baseline.
-This line was updated in the fixture PR.
