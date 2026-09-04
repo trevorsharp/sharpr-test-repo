@@ -1,2 +1,13 @@
 Second mutation contract fixture.
-Head changed after PR creation for stale-head validation.
+Native contract line 01.
+Native contract line 02.
+Native contract line 03.
+Native contract line 04.
+Native contract line 05.
+Native contract line 06.
+Native contract line 07.
+Native contract line 08.
+Native contract line 09.
+Native contract line 10.
+Native contract line 11.
+Native contract line 12.
